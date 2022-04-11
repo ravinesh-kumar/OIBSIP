@@ -1,0 +1,66 @@
+body{
+    padding:0px;
+    margin:0;
+}
+.c1{
+    background-color:black;
+    height:500px;
+    /* margin:auto; */
+    width:100%;
+    color:white;
+}
+.c2{
+    text-align:center;
+    border:1px;
+    
+     position: absolute; 
+     top:40px;
+     right:43%;
+     text-decoration: none;
+     font-family:'Times New Roman', Times, serif;
+     /* margin-top:40px;  */
+}
+.video{
+    position: absolute;
+    top:200px;
+    right:35%;
+    
+
+}
+.v1{
+    height: 250px;
+    width: 100%;
+}
+.quo1{
+    width:50%;
+    margin-top:150px;
+    margin-left:120px;
+}
+.img{
+    height:250px;
+    margin-top:-200px;
+    /* width:auto; */
+    position:absolute;
+    right:15%;
+}
+.bioo{
+    background-color: rgb(92, 85, 85);
+    height:300px;
+    width:100%;
+
+}
+.bio1{
+    text-align:center;    
+    color:white;
+    margin-top:200px;
+    font-size: 500;
+    /* margin-left:30%; */
+    
+}
+.para1{
+    margin-left:30%;
+    color:rgb(239, 237, 234);
+}
+.s1{
+    color:white;
+}
